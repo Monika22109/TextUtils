@@ -1,3 +1,6 @@
+# Deploy Free on Github follow the steps in the below link
+Note: Not to use router as per instruction [https://create-react-app.dev/docs/deployment/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

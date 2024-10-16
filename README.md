@@ -1,4 +1,4 @@
-# Deploy Free on Github follow the steps in the below link
+# Deploy Free on Github follow the Github Pages steps in the below link
 Note: Not to use router as per instruction [https://create-react-app.dev/docs/deployment/]
 
 # Getting Started with Create React App
